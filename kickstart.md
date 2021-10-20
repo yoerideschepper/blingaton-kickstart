@@ -53,7 +53,7 @@ After this compile the code with the default settings.
 
 ![alt text](https://raw.githubusercontent.com/yoerideschepper/blingaton-kickstart/master/remix-ide.JPG "REMIX")
 
-In the ![alt text](./deploy.jpg "deploy") section it is possible to `Deploy and run` your contract. 
+In the ![alt text](https://raw.githubusercontent.com/yoerideschepper/blingaton-kickstart/master/deploy.JPG "deploy") section it is possible to `Deploy and run` your contract. 
 
 To deploy this contract on the Volta testnetwork choose the following settings. FOr the `Envirement` choose `Injected Web3`, with this option it is possible with MetaMask to sign your transaction and connect to Volta. You're account should be automatically selected. Choose your compiled `HelloWorld.sol` contract. Press on `Deploy`.
 
