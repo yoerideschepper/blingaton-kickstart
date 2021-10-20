@@ -51,7 +51,7 @@ contract HelloWorld {
 
 After this compile the code with the default settings. 
 
-![alt text](./remix-ide.jpg "REMIX")
+![alt text](https://raw.githubusercontent.com/yoerideschepper/blingaton-kickstart/master/remix-ide.JPG "REMIX")
 
 In the ![alt text](./deploy.jpg "deploy") section it is possible to `Deploy and run` your contract. 
 
